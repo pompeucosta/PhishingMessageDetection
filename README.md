@@ -3,6 +3,8 @@ As the name implies, the objective is to develop a ML model capable of detecting
 
 We use the model, alongside another ML model, that detects phishing URLs, made by our collegue Rafael Pinto, to detect phishing messages and URLs on discord servers. For that, we developed a [discord bot](https://github.com/pompeucosta/AAS_Discord_Bot).
 
+This project was developed as part of a university project.
+
 ## Authors
 This model was developed and trained by Pompeu Costa and João Mourão.
 
